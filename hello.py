@@ -1,2 +1,3 @@
 print("Hello, world!")
-# Komentarz
+# Poprawiony komentarz
+# Drugi komentarz
