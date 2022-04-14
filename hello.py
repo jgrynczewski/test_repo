@@ -5,3 +5,4 @@ print("Hello, world!")
 # inny komenatrz (od gałęzi pull_request 2)
 # komentarz dodany przy mergowaniu
 # kolejny komentarz
+# jeszcze jeden komentarz (dodany na githubie)
