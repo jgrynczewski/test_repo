@@ -4,3 +4,4 @@ print("Hello, world!")
 # Trzeci komentarz (od gałęzi pull_request_1)
 # inny komenatrz (od gałęzi pull_request 2)
 # komentarz dodany przy mergowaniu
+# kolejny komentarz
